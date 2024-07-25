@@ -3,7 +3,7 @@ basic:
   title: 软件开发|人工智能|网络安全            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/微信图片_20240725222625.jpg # avatar file path
+    path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
