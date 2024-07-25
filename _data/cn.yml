@@ -228,11 +228,10 @@ publication:
   order: 7
   title: Publications
   description: |
-  Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
-
+  真菌作为生态系统中的分解者，在木质纤维素的分解中发挥着重要作用，促进生态系统中的碳循环。本文通过建立数学模型来模拟真菌的分解过程，在不考虑真菌之间相互作用的情况下，通过线性回归模型分析湿度和温度对真菌分解速率的影响。结合微分方程和元细胞自动机模型，考虑真菌之间的相互作用来描述不同种群的真菌在给定环境中如何相互作用。
   items:
-    - title: Research on Fungal Decomposition Based on Mathematical Model
-      authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
+    - title: 基于数学模型的真菌分解研究
+      authors: 卢宝辉 ; 胡亭亭 ; 王启月
       conference: SPIE , 2022
       link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
     - title: 
@@ -246,18 +245,18 @@ award:
   title: Awards
   description: |
   items:
-    - name: Mathematical Contest in Modeling Certificate of Achievement 
-      awarder: Society for Industrial and Applied Mathematics
+    - name: 美国大学生数学建模竞赛
+      awarder: 美国数学及其应用联合会主办
       date: 2022
       link: '#'
       description: |
-        Meritorious	Winner.
-    - name: 2022RoboCom Robot Developer Competition (RAICOM)
+        M奖
+    - name: 2022睿抗机器人开发者大赛 (RAICOM)
       awarder: RoboCom
       date: 2022
       link:
       description: |
-        National Second Prize.
+        全国二等奖.
 
 # patent:
 #   show: true
