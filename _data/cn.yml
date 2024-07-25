@@ -3,7 +3,7 @@ basic:
   title: 软件开发|人工智能|网络安全            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/profile1.jpg # avatar file path
 
 contact:
   # meta
@@ -148,8 +148,8 @@ skill:
     - name: R
       level: 3
     - name: HTML
-      level: 5SHI
-    - name: machine learning
+      level: 5
+    - name: Machine Learning
       level: 4
     - name: WEB penetration
       level: 5
