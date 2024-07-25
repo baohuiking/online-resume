@@ -122,7 +122,7 @@ project:
       tags:
       date: 2020.6 - 2022.3
       description: |
-      Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
+        Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
         + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
         + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
 
