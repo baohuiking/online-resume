@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github: baohuiking                  # username          | https://github.com/username
+  github: baohuiking       # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -59,7 +59,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin: baohui-lu                # username          | https://linkedin.com/in/username
+  linkedin: baohui-lu      # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -210,7 +210,7 @@ certificate:
   items:
     - name: NISP-1  
       issuer: CNITSEC
-      date: 2020
+      date: 2020  
       link: '#'
       description: |
         National Information Security Level Certificate Level 1.
@@ -245,13 +245,13 @@ award:
   items:
     - name: Mathematical Contest in Modeling Certificate of Achievement 
       awarder: Society for Industrial and Applied Mathematics
-      date: 2022
+      date: 2022  
       link: '#'
       description: |
         Meritorious	Winner.
     - name: 2022RoboCom Robot Developer Competition (RAICOM)
       awarder: RoboCom
-      date: 2022
+      date: 2022  
       link:
       description: |
         National Second Prize.
