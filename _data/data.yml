@@ -77,58 +77,58 @@ contact:
   goodreads:               # username          | https://www.goodreads.com/user/show/username
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
-# profile:
-#   show: true
-#   order: 1
-#   title: Profile
-#   description: |
-#     After completing four years of undergraduate network engineering studies, I studied an embedded artificial intelligence program in France, so I am looking for internship opportunities related to SW development artificial intelligence or cybersecurity.
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: |
+    After completing four years of undergraduate network engineering studies, I studied an embedded artificial intelligence program in France, so I am looking for internship opportunities related to SW development artificial intelligence or cybersecurity.
 
-# experience:
-#   show: true
-#   order: 2
-#   title: Experiences
-#   items:
-#     - company: Beijing Guoyu Network Security Technology Corporation
-#       link: '#'
-#       tags: Full-time
-#       date: 2022.07 - 2022.08
-#       role: Cybersecurity Engineer
-#       location: Beijing
-#       description: |
-#         + Conducted dynamic and static analysis on attack samples of APT organizations such as DarkHotel and GreenSpot, extracted attack processes and behavioral characteristics of different samples, and wrote 5 related tracing reports
+experience:
+  show: true
+  order: 2
+  title: Experiences
+  items:
+    - company: Beijing Guoyu Network Security Technology Corporation
+      link: '#'
+      tags: Full-time
+      date: 2022.07 - 2022.08
+      role: Cybersecurity Engineer
+      location: Beijing
+      description: |
+        + Conducted dynamic and static analysis on attack samples of APT organizations such as DarkHotel and GreenSpot, extracted attack processes and behavioral characteristics of different samples, and wrote 5 related tracing reports
 
-#     - company: Ruihua Song'an
-#       link:
-#       tags: Full-time
-#       date: 2022.08 - 2023.03
-#       role: Cybersecurity Lecturer
-#       location: Shandong
-#       description: |
-#         + The network security basics for training students include: WEB security basics, cryptography, binary security.
+    - company: Ruihua Song'an
+      link:
+      tags: Full-time
+      date: 2022.08 - 2023.03
+      role: Cybersecurity Lecturer
+      location: Shandong
+      description: |
+        + The network security basics for training students include: WEB security basics, cryptography, binary security.
 
 
-# project:
-#   show: true
-#   order: 3
-#   title: Projects
-#   items:
-#     - name: National College Student Innovation Program
-#       link: '#'
-#       tags:
-#       date: 2020.6 - 2022.3
-#       description: |
-#         Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
-#         + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
-#         + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
+project:
+  show: true
+  order: 3
+  title: Projects
+  items:
+    - name: National College Student Innovation Program
+      link: '#'
+      tags:
+      date: 2020.6 - 2022.3
+      description: |
+        Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
+        + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
+        + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
 
-#     - name: National Cyber Security Offensive and Defensive Exercise
-#       link:
-#       tags: 
-#       date: 2022.7 - 2022.8
-#       description: |
-#         + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
-#         + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
+    - name: National Cyber Security Offensive and Defensive Exercise
+      link:
+      tags: 
+      date: 2022.7 - 2022.8
+      description: |
+        + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
+        + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
 
 
 # skill:
