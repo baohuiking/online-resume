@@ -86,7 +86,7 @@ profile:
 
 experience:
   show: true
-  order: 2
+  order: 3
   title: Experiences
   items:
     - company: Beijing Guoyu Network Security Technology Corporation
@@ -110,7 +110,7 @@ experience:
 
 project:
   show: true
-  order: 3
+  order: 4
   title: Projects
   items:
     - name: National College Student Innovation Program
@@ -133,7 +133,7 @@ project:
 
 skill:
   show: true
-  order: 4
+  order: 5
   title: Skills
   items:
     - name: Java
@@ -173,7 +173,7 @@ skill:
 
 education:
   show: true
-  order: 5
+  order: 2
   title: Education
   items:
     - institution: ESIGELEC
