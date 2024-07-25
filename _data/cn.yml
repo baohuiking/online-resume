@@ -98,17 +98,15 @@ experience:
       role: 网络安全工程师
       location: 北京
       description: |
-        + Conducted dynamic and static analysis on attack samples of APT organizations such as DarkHotel and GreenSpot, extracted attack processes and behavioral characteristics of different samples, and wrote 5 related tracing reports
-
-    - company: Ruihua Song'an
+        + 对DarkHotel、GreenSpot等APT组织的攻击样本进行动静态分析，提取不同样本的攻击流程和行为特征，并撰写5份相关溯源报告
+    - company: 瑞华颂安
       link:
       tags: Full-time
       date: 2022.08 - 2023.03
-      role: Cybersecurity Lecturer
-      location: Shandong
+      role: 网络安全讲师
+      location: 山东
       description: |
-        + The network security basics for training students include: WEB security basics, cryptography, binary security.
-
+        + 培训学生的网络安全基础包括：WEB安全基础、密码学、二进制安全。
 
 project:
   show: true
@@ -117,22 +115,22 @@ project:
   description: |
   
   items:
-    - name: National College Student Innovation Program
+    - name: 国家大学生创新计划
       link: '#'
       tags:
       date: 2020.6 - 2022.3
       description: |
-      Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
-        + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
-        + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
+      智慧能源-分布式能源020智能运维。
+        + 开发了一个基于 LSTM 的光伏发电预测原型系统，该系统使用时空数据和气象数据作为输入。
+        + 与团队成员合作创建了基于网络的光伏发电预测模型。残差模型包含故障诊断模块和阴影诊断模块。
 
-    - name: National Cyber Security Offensive and Defensive Exercise
+    - name: 国家网络安全攻防演习
       link:
-      tags: committer
+      tags: 
       date: 2022.7 - 2022.8
       description: |
-        + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
-        + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
+        + 作为防御者协同完成监测数据、处置、对策等一系列任务。
+        + 撰写了20多份详细报告，完整记录了攻击跟踪过程和结果。发现了40多个可能对系统安全构成威胁的关键漏洞。
 
 
 skill:
