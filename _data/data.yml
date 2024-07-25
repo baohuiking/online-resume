@@ -128,7 +128,7 @@ project:
 
     - name: National Cyber Security Offensive and Defensive Exercise
       link:
-      tags: committer
+      tags: 
       date: 2022.7 - 2022.8
       description: |
         + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
