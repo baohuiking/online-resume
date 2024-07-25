@@ -189,10 +189,10 @@ education:
       major: Connected And Embedded Artificial Intelligence
       degree: Master
       description: |
-      Complete the "Drone Identification and Tracking" project as a team leader.
+        Complete the "Drone Identification and Tracking" project as a team leader.
         + Developing Tello drones equipped with pedestrian detection and object tracking capabilities using YOLOv7 and Lightweight OpenPose models.
       description: |
-      Participate in the Le France Cybersecurity Challenge (FCSC) competition  
+        Participate in the Le France Cybersecurity Challenge (FCSC) competition  
         + During the competition, all the flags for solving the MISC track were submitted.
 
     - institution: Shandong Jianzhu University
@@ -230,7 +230,7 @@ publication:
   order: 7
   title: Publications
   description: |
-  Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
+    Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
 
   items:
     - title: Research on Fungal Decomposition Based on Mathematical Model
@@ -246,7 +246,6 @@ award:
   show: true
   order: 8
   title: Awards
-  description: |
   items:
     - name: Mathematical Contest in Modeling Certificate of Achievement 
       awarder: Society for Industrial and Applied Mathematics
@@ -300,7 +299,7 @@ language:
   show: true
   order: 11
   title: Languages
-  description: |
+  # description: |
   items:
     - idiom: Chinese
       level: Native
@@ -313,7 +312,7 @@ interest:
   show: true
   order: 12
   title: Interests
-  description: |
+  # description: |
   items:
     - item: CTF
       link: 'https://ctf-wiki.org/'
