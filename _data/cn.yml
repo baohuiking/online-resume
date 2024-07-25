@@ -89,7 +89,6 @@ experience:
   show: true
   order: 2
   title: Experiences
-  description: |
   items:
     - company: 北京国誉网安有限公司
       link: '#'
@@ -112,8 +111,6 @@ project:
   show: true
   order: 3
   title: Projects
-  description: |
-  
   items:
     - name: 国家大学生创新计划
       link: '#'
@@ -137,7 +134,6 @@ skill:
   show: true
   order: 4
   title: Skills
-  description: |
   items:
     - name: Java
       level: 4
@@ -179,7 +175,6 @@ education:
   show: true
   order: 5
   title: Education
-  description: |
   items:
     - institution: ESIGELEC
       link: '#'
@@ -208,7 +203,6 @@ certificate:
   show: true
   order: 6
   title: Certificates
-  description: |
   items:
     - name: NISP-1  
       issuer: CNITSEC
@@ -243,7 +237,6 @@ award:
   show: true
   order: 8
   title: Awards
-  description: |
   items:
     - name: 美国大学生数学建模竞赛
       awarder: 美国数学及其应用联合会主办
@@ -297,7 +290,6 @@ language:
   show: true
   order: 11
   title: Languages
-  description: |
   items:
     - idiom: Chinese
       level: Native
@@ -310,7 +302,6 @@ interest:
   show: true
   order: 12
   title: Interests
-  description: |
   items:
     - item: CTF
       link: 'https://ctf-wiki.org/'
