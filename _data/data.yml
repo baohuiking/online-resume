@@ -3,7 +3,7 @@ basic:
   title: SW development|Artificial Intelligence|Cybersecurity            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/微信图片_20240725222625.jpg # avatar file path
 
 contact:
   # meta
