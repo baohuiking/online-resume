@@ -82,14 +82,13 @@ profile:
   show: true
   order: 1
   title: Profile
-  description: |
+  description: 
     After completing four years of undergraduate network engineering studies, I studied an embedded artificial intelligence program in France, so I am looking for internship opportunities related to SW development artificial intelligence or cybersecurity.
 
 experience:
   show: true
   order: 2
   title: Experiences
-  description: |
   items:
     - company: Beijing Guoyu Network Security Technology Corporation
       link: '#'
@@ -114,8 +113,6 @@ project:
   show: true
   order: 3
   title: Projects
-  description: |
-  
   items:
     - name: National College Student Innovation Program
       link: '#'
@@ -139,7 +136,6 @@ skill:
   show: true
   order: 4
   title: Skills
-  description: |
   items:
     - name: Java
       level: 4
@@ -312,7 +308,6 @@ interest:
   show: true
   order: 12
   title: Interests
-  # description: |
   items:
     - item: CTF
       link: 'https://ctf-wiki.org/'
