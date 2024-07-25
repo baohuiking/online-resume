@@ -77,237 +77,197 @@ contact:
   goodreads:               # username          | https://www.goodreads.com/user/show/username
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
-profile:
-  show: true
-  order: 1
-  title: Profile
-  description: |
-    After completing four years of undergraduate network engineering studies, I studied an embedded artificial intelligence program in France, so I am looking for internship opportunities related to SW development artificial intelligence or cybersecurity.
-
-experience:
-  show: true
-  order: 2
-  title: Experiences
-  items:
-    - company: Beijing Guoyu Network Security Technology Corporation
-      link: '#'
-      tags: Full-time
-      date: 2022.07 - 2022.08
-      role: Cybersecurity Engineer
-      location: Beijing
-      description: |
-        + Conducted dynamic and static analysis on attack samples of APT organizations such as DarkHotel and GreenSpot, extracted attack processes and behavioral characteristics of different samples, and wrote 5 related tracing reports
-
-    - company: Ruihua Song'an
-      link:
-      tags: Full-time
-      date: 2022.08 - 2023.03
-      role: Cybersecurity Lecturer
-      location: Shandong
-      description: |
-        + The network security basics for training students include: WEB security basics, cryptography, binary security.
-
-
-project:
-  show: true
-  order: 3
-  title: Projects
-  items:
-    - name: National College Student Innovation Program
-      link: '#'
-      tags:
-      date: 2020.6 - 2022.3
-      description: |
-        Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
-        + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
-        + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
-
-    - name: National Cyber Security Offensive and Defensive Exercise
-      link:
-      tags: 
-      date: 2022.7 - 2022.8
-      description: |
-        + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
-        + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
-
-
-skill:
-  show: true
-  order: 4
-  title: Skills
-  items:
-    - name: Java
-      level: 4
-    - name: Python
-      level: 5
-    - name: Linux
-      level: 4
-    - name: C++
-      level: 3
-    - name: SQL
-      level: 3
-    - name: R
-      level: 3
-    - name: HTML
-      level: 5SHI
-    - name: machine learning
-      level: 4
-    - name: WEB penetration
-      level: 5
-
-  groups:
-    - name: HTML
-      item:
-        - CSS
-        - Node
-        - PHP
-        - Spring Boot
-    - name: machine learning
-      item:
-        - data processing
-        - GAN (Production Adversarial Network)
-        - Target Detection
-    - name: WEB penetration
-      item:
-        - CTF
-        - SRC
-
-education:
-  show: true
-  order: 5
-  title: Education
-  items:
-    - institution: ESIGELEC
-      link: '#'
-      date: 2023 - 2025
-      major: Connected And Embedded Artificial Intelligence
-      degree: Master
-      description: |
-        Complete the "Drone Identification and Tracking" project as a team leader.
-        + Developing Tello drones equipped with pedestrian detection and object tracking capabilities using YOLOv7 and Lightweight OpenPose models.
-      description: |
-        Participate in the Le France Cybersecurity Challenge (FCSC) competition  
-        + During the competition, all the flags for solving the MISC track were submitted.
-
-    - institution: Shandong Jianzhu University
-      link:
-      date: 2019 - 2023
-      major: network engineering
-      degree: Bachelor
-      description: |
-        Semantic enhancement of geospatial data based on knowledge graphs.
-        + Wrote OSM data parsing and analyzed Python programs for extracting point, line and surface type geographic entities and structuring it for storage.
-        + Parsed the raw data or extracted objects with spatial coordinate attributes to store in the MongoDB database, with 8146,542 incoming entities:
-
-
-certificate:
-  show: true
-  order: 6
-  title: Certificates
-  items:
-    - name: NISP-1  
-      issuer: CNITSEC
-      date: 2020  
-      link: '#'
-      description: |
-        National Information Security Level Certificate Level 1.
-    # - name: 
-    #   issuer: 
-    #   date: 
-    #   link:
-    #   description: |
-    #     It's my Example Certificate Two by Example.
-
-publication:
-  show: true
-  order: 7
-  title: Publications
-  description: |
-    Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
-
-  items:
-    - title: Research on Fungal Decomposition Based on Mathematical Model
-      authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
-      conference: SPIE , 2022
-      link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
-    - title: 
-      authors: 
-      conference: 
-      link:
-
-award:
-  show: true
-  order: 8
-  title: Awards
-  items:
-    - name: Mathematical Contest in Modeling Certificate of Achievement 
-      awarder: Society for Industrial and Applied Mathematics
-      date: 2022  
-      link: '#'
-      description: |
-        Meritorious	Winner.
-    - name: 2022RoboCom Robot Developer Competition (RAICOM)
-      awarder: RoboCom
-      date: 2022  
-      link:
-      description: |
-        National Second Prize.
-
-# patent:
+# profile:
 #   show: true
-#   order: 9
-#   title: Patents
+#   order: 1
+#   title: Profile
 #   description: |
-#     The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
+#     After completing four years of undergraduate network engineering studies, I studied an embedded artificial intelligence program in France, so I am looking for internship opportunities related to SW development artificial intelligence or cybersecurity.
 
-#     In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
-
-#     Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
-
-#     Template for a pending patent:
-
-#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
-
-#     Template for an approved patent:
-
-#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
-
-#     The following are some examples of patent formats.
-
-#     + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
-#     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
-
-# organization:
+# experience:
 #   show: true
-#   order: 10
-#   title: Organizations
+#   order: 2
+#   title: Experiences
+#   items:
+#     - company: Beijing Guoyu Network Security Technology Corporation
+#       link: '#'
+#       tags: Full-time
+#       date: 2022.07 - 2022.08
+#       role: Cybersecurity Engineer
+#       location: Beijing
+#       description: |
+#         + Conducted dynamic and static analysis on attack samples of APT organizations such as DarkHotel and GreenSpot, extracted attack processes and behavioral characteristics of different samples, and wrote 5 related tracing reports
+
+#     - company: Ruihua Song'an
+#       link:
+#       tags: Full-time
+#       date: 2022.08 - 2023.03
+#       role: Cybersecurity Lecturer
+#       location: Shandong
+#       description: |
+#         + The network security basics for training students include: WEB security basics, cryptography, binary security.
+
+
+# project:
+#   show: true
+#   order: 3
+#   title: Projects
+#   items:
+#     - name: National College Student Innovation Program
+#       link: '#'
+#       tags:
+#       date: 2020.6 - 2022.3
+#       description: |
+#         Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
+#         + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
+#         + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
+
+#     - name: National Cyber Security Offensive and Defensive Exercise
+#       link:
+#       tags: 
+#       date: 2022.7 - 2022.8
+#       description: |
+#         + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
+#         + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
+
+
+# skill:
+#   show: true
+#   order: 4
+#   title: Skills
+#   items:
+#     - name: Java
+#       level: 4
+#     - name: Python
+#       level: 5
+#     - name: Linux
+#       level: 4
+#     - name: C++
+#       level: 3
+#     - name: SQL
+#       level: 3
+#     - name: R
+#       level: 3
+#     - name: HTML
+#       level: 5SHI
+#     - name: machine learning
+#       level: 4
+#     - name: WEB penetration
+#       level: 5
+
+#   groups:
+#     - name: HTML
+#       item:
+#         - CSS
+#         - Node
+#         - PHP
+#         - Spring Boot
+#     - name: machine learning
+#       item:
+#         - data processing
+#         - GAN (Production Adversarial Network)
+#         - Target Detection
+#     - name: WEB penetration
+#       item:
+#         - CTF
+#         - SRC
+
+# education:
+#   show: true
+#   order: 5
+#   title: Education
+#   items:
+#     - institution: ESIGELEC
+#       link: '#'
+#       date: 2023 - 2025
+#       major: Connected And Embedded Artificial Intelligence
+#       degree: Master
+#       description: |
+#         Complete the "Drone Identification and Tracking" project as a team leader.
+#         + Developing Tello drones equipped with pedestrian detection and object tracking capabilities using YOLOv7 and Lightweight OpenPose models.
+#       description: |
+#         Participate in the Le France Cybersecurity Challenge (FCSC) competition  
+#         + During the competition, all the flags for solving the MISC track were submitted.
+
+#     - institution: Shandong Jianzhu University
+#       link:
+#       date: 2019 - 2023
+#       major: network engineering
+#       degree: Bachelor
+#       description: |
+#         Semantic enhancement of geospatial data based on knowledge graphs.
+#         + Wrote OSM data parsing and analyzed Python programs for extracting point, line and surface type geographic entities and structuring it for storage.
+#         + Parsed the raw data or extracted objects with spatial coordinate attributes to store in the MongoDB database, with 8146,542 incoming entities:
+
+
+# certificate:
+#   show: true
+#   order: 6
+#   title: Certificates
+#   items:
+#     - name: NISP-1  
+#       issuer: CNITSEC
+#       date: 2020  
+#       link: '#'
+#       description: |
+#         National Information Security Level Certificate Level 1.
+
+# publication:
+#   show: true
+#   order: 7
+#   title: Publications
 #   description: |
-#     The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
+#     Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
 
-#     In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
+#   items:
+#     - title: Research on Fungal Decomposition Based on Mathematical Model
+#       authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
+#       conference: SPIE , 2022
+#       link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
+#     - title: 
+#       authors: 
+#       conference: 
+#       link:
 
-#     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
+# award:
+#   show: true
+#   order: 8
+#   title: Awards
+#   items:
+#     - name: Mathematical Contest in Modeling Certificate of Achievement 
+#       awarder: Society for Industrial and Applied Mathematics
+#       date: 2022  
+#       link: '#'
+#       description: |
+#         Meritorious	Winner.
+#     - name: 2022RoboCom Robot Developer Competition (RAICOM)
+#       awarder: RoboCom
+#       date: 2022  
+#       link: '#'
+#       description: |
+#         National Second Prize.
+        
+# language:
+#   show: true
+#   order: 11
+#   title: Languages
+#   # description: |
+#   items:
+#     - idiom: Chinese
+#       level: Native
+#     - idiom: English
+#       level: Professional
+#     - idiom: French
+#       level: Base     
 
-language:
-  show: true
-  order: 11
-  title: Languages
-  # description: |
-  items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-    - idiom: French
-      level: Base     
-
-interest:
-  show: true
-  order: 12
-  title: Interests
-  items:
-    - item: CTF
-      link: 'https://ctf-wiki.org/'
-    - item: climb mountains
-      link: '#'
+# interest:
+#   show: true
+#   order: 12
+#   title: Interests
+#   items:
+#     - item: CTF
+#       link: 'https://ctf-wiki.org/'
+#     - item: climb mountains
+#       link: '#'
+      
 close: <strong>Sorry, my resume has been hidden.</strong>
