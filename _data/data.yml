@@ -155,119 +155,119 @@ project:
 #     - name: WEB penetration
 #       level: 5
 
-#   groups:
-#     - name: HTML
-#       item:
-#         - CSS
-#         - Node
-#         - PHP
-#         - Spring Boot
-#     - name: machine learning
-#       item:
-#         - data processing
-#         - GAN (Production Adversarial Network)
-#         - Target Detection
-#     - name: WEB penetration
-#       item:
-#         - CTF
-#         - SRC
+  groups:
+    - name: HTML
+      item:
+        - CSS
+        - Node
+        - PHP
+        - Spring Boot
+    - name: machine learning
+      item:
+        - data processing
+        - GAN (Production Adversarial Network)
+        - Target Detection
+    - name: WEB penetration
+      item:
+        - CTF
+        - SRC
 
-# education:
-#   show: true
-#   order: 5
-#   title: Education
-#   items:
-#     - institution: ESIGELEC
-#       link: '#'
-#       date: 2023 - 2025
-#       major: Connected And Embedded Artificial Intelligence
-#       degree: Master
-#       description: |
-#         Complete the "Drone Identification and Tracking" project as a team leader.
-#         + Developing Tello drones equipped with pedestrian detection and object tracking capabilities using YOLOv7 and Lightweight OpenPose models.
-#       description: |
-#         Participate in the Le France Cybersecurity Challenge (FCSC) competition  
-#         + During the competition, all the flags for solving the MISC track were submitted.
+education:
+  show: true
+  order: 5
+  title: Education
+  items:
+    - institution: ESIGELEC
+      link: '#'
+      date: 2023 - 2025
+      major: Connected And Embedded Artificial Intelligence
+      degree: Master
+      description: |
+        Complete the "Drone Identification and Tracking" project as a team leader.
+        + Developing Tello drones equipped with pedestrian detection and object tracking capabilities using YOLOv7 and Lightweight OpenPose models.
+      description: |
+        Participate in the Le France Cybersecurity Challenge (FCSC) competition  
+        + During the competition, all the flags for solving the MISC track were submitted.
 
-#     - institution: Shandong Jianzhu University
-#       link:
-#       date: 2019 - 2023
-#       major: network engineering
-#       degree: Bachelor
-#       description: |
-#         Semantic enhancement of geospatial data based on knowledge graphs.
-#         + Wrote OSM data parsing and analyzed Python programs for extracting point, line and surface type geographic entities and structuring it for storage.
-#         + Parsed the raw data or extracted objects with spatial coordinate attributes to store in the MongoDB database, with 8146,542 incoming entities:
+    - institution: Shandong Jianzhu University
+      link:
+      date: 2019 - 2023
+      major: network engineering
+      degree: Bachelor
+      description: |
+        Semantic enhancement of geospatial data based on knowledge graphs.
+        + Wrote OSM data parsing and analyzed Python programs for extracting point, line and surface type geographic entities and structuring it for storage.
+        + Parsed the raw data or extracted objects with spatial coordinate attributes to store in the MongoDB database, with 8146,542 incoming entities:
 
 
-# certificate:
-#   show: true
-#   order: 6
-#   title: Certificates
-#   items:
-#     - name: NISP-1  
-#       issuer: CNITSEC
-#       date: 2020  
-#       link: '#'
-#       description: |
-#         National Information Security Level Certificate Level 1.
+certificate:
+  show: true
+  order: 6
+  title: Certificates
+  items:
+    - name: NISP-1  
+      issuer: CNITSEC
+      date: 2020  
+      link: '#'
+      description: |
+        National Information Security Level Certificate Level 1.
 
-# publication:
-#   show: true
-#   order: 7
-#   title: Publications
-#   description: |
-#     Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
+publication:
+  show: true
+  order: 7
+  title: Publications
+  description: |
+    Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
 
-#   items:
-#     - title: Research on Fungal Decomposition Based on Mathematical Model
-#       authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
-#       conference: SPIE , 2022
-#       link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
-#     - title: 
-#       authors: 
-#       conference: 
-#       link:
+  items:
+    - title: Research on Fungal Decomposition Based on Mathematical Model
+      authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
+      conference: SPIE , 2022
+      link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
+    - title: 
+      authors: 
+      conference: 
+      link:
 
-# award:
-#   show: true
-#   order: 8
-#   title: Awards
-#   items:
-#     - name: Mathematical Contest in Modeling Certificate of Achievement 
-#       awarder: Society for Industrial and Applied Mathematics
-#       date: 2022  
-#       link: '#'
-#       description: |
-#         Meritorious	Winner.
-#     - name: 2022RoboCom Robot Developer Competition (RAICOM)
-#       awarder: RoboCom
-#       date: 2022  
-#       link: '#'
-#       description: |
-#         National Second Prize.
+award:
+  show: true
+  order: 8
+  title: Awards
+  items:
+    - name: Mathematical Contest in Modeling Certificate of Achievement 
+      awarder: Society for Industrial and Applied Mathematics
+      date: 2022  
+      link: '#'
+      description: |
+        Meritorious	Winner.
+    - name: 2022RoboCom Robot Developer Competition (RAICOM)
+      awarder: RoboCom
+      date: 2022  
+      link: '#'
+      description: |
+        National Second Prize.
         
-# language:
-#   show: true
-#   order: 11
-#   title: Languages
-#   # description: |
-#   items:
-#     - idiom: Chinese
-#       level: Native
-#     - idiom: English
-#       level: Professional
-#     - idiom: French
-#       level: Base     
+language:
+  show: true
+  order: 11
+  title: Languages
+  # description: |
+  items:
+    - idiom: Chinese
+      level: Native
+    - idiom: English
+      level: Professional
+    - idiom: French
+      level: Base     
 
-# interest:
-#   show: true
-#   order: 12
-#   title: Interests
-#   items:
-#     - item: CTF
-#       link: 'https://ctf-wiki.org/'
-#     - item: climb mountains
-#       link: '#'
+interest:
+  show: true
+  order: 12
+  title: Interests
+  items:
+    - item: CTF
+      link: 'https://ctf-wiki.org/'
+    - item: climb mountains
+      link: '#'
       
 close: <strong>Sorry, my resume has been hidden.</strong>
