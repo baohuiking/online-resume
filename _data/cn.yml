@@ -165,12 +165,12 @@ skill:
         - Node
         - PHP
         - Spring Boot
-    - name: machine learning
+    - name: 机器学习
       item:
-        - data processing
-        - GAN (Production Adversarial Network)
+        - 数据预处理
+        - GAN (生成对抗网络)
         - Target Detection
-    - name: WEB penetration
+    - name: WEB渗透
       item:
         - CTF
         - SRC
@@ -184,24 +184,24 @@ education:
     - institution: ESIGELEC
       link: '#'
       date: 2023 - 2025
-      major: Connected And Embedded Artificial Intelligence
-      degree: Master
+      major: 嵌入式人工智能
+      degree: 硕士
       description: |
-      Complete the "Drone Identification and Tracking" project as a team leader.
-        + Developing Tello drones equipped with pedestrian detection and object tracking capabilities using YOLOv7 and Lightweight OpenPose models.
+      作为团队负责人完成“无人机识别与跟踪”项目。
+        + 使用 YOLOv7 和 Lightweight OpenPose 模型开发配备行人检测和物体跟踪功能的 Tello 无人机。
       description: |
-      Participate in the Le France Cybersecurity Challenge (FCSC) competition  
-        + During the competition, all the flags for solving the MISC track were submitted.
+      参加法国网络安全挑战赛（FCSC）竞赛  
+        + 比赛期间，所有解决MISC赛道的flag均已提交。
 
-    - institution: Shandong Jianzhu University
+    - institution: 山东建筑大学
       link:
       date: 2019 - 2023
-      major: network engineering
-      degree: Bachelor
+      major: 网络工程
+      degree: 本科
       description: |
-        Semantic enhancement of geospatial data based on knowledge graphs.
-        + Wrote OSM data parsing and analyzed Python programs for extracting point, line and surface type geographic entities and structuring it for storage.
-        + Parsed the raw data or extracted objects with spatial coordinate attributes to store in the MongoDB database, with 8146,542 incoming entities:
+        基于知识图谱的地理空间数据语义增强。
+        + 编写OSM数据解析并分析Python程序，用于提取点、线、面类型的地理实体并将其结构化存储。
+        + 解析原始数据或提取具有空间坐标属性的对象以存储在 MongoDB 数据库中，有 8146,542 个传入实体：
 
 
 certificate:
@@ -215,7 +215,7 @@ certificate:
       date: 2020
       link: '#'
       description: |
-        National Information Security Level Certificate Level 1.
+        国家信息安全等级证书一级。
     # - name: 
     #   issuer: 
     #   date: 
