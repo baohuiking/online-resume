@@ -82,7 +82,7 @@ profile:
   show: true
   order: 1
   title: Profile
-  description: 
+  description: |
     After completing four years of undergraduate network engineering studies, I studied an embedded artificial intelligence program in France, so I am looking for internship opportunities related to SW development artificial intelligence or cybersecurity.
 
 experience:
