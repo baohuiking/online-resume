@@ -81,18 +81,18 @@ contact:
 profile:
   show: true
   order: 1
-  title: Profile
+  title: 简介
   description: |
     在完成四年的本科网络工程学习后，我学习了法国嵌入式人工智能项目，所以我正在寻找实习机会与软件开发人工智能或网络安全相关的机会。
 
 experience:
   show: true
-  order: 2
-  title: Experiences
+  order: 3
+  title: 实习经历
   items:
     - company: 北京国誉网安有限公司
       link: '#'
-      tags: Full-time
+      tags: 全职
       date: 2022.07 - 2022.08
       role: 网络安全工程师
       location: 北京
@@ -100,7 +100,7 @@ experience:
         + 对DarkHotel、GreenSpot等APT组织的攻击样本进行动静态分析，提取不同样本的攻击流程和行为特征，并撰写5份相关溯源报告
     - company: 瑞华颂安
       link:
-      tags: Full-time
+      tags: 全职
       date: 2022.08 - 2023.03
       role: 网络安全讲师
       location: 山东
@@ -109,8 +109,8 @@ experience:
 
 project:
   show: true
-  order: 3
-  title: Projects
+  order: 4
+  title: 项目
   items:
     - name: 国家大学生创新计划
       link: '#'
@@ -132,7 +132,7 @@ project:
 
 skill:
   show: true
-  order: 4
+  order: 5
   title: Skills
   items:
     - name: Java
@@ -173,8 +173,8 @@ skill:
 
 education:
   show: true
-  order: 5
-  title: Education
+  order: 2
+  title: 教育
   items:
     - institution: ESIGELEC
       link: '#'
@@ -184,7 +184,6 @@ education:
       description: |
         作为团队负责人完成“无人机识别与跟踪”项目。
         + 使用 YOLOv7 和 Lightweight OpenPose 模型开发配备行人检测和物体跟踪功能的 Tello 无人机。
-      description: |
         参加法国网络安全挑战赛（FCSC）竞赛  
         + 比赛期间，所有解决MISC赛道的flag均已提交。
 
@@ -202,7 +201,7 @@ education:
 certificate:
   show: true
   order: 6
-  title: Certificates
+  title: 证书
   items:
     - name: NISP-1  
       issuer: CNITSEC
@@ -220,7 +219,7 @@ certificate:
 publication:
   show: true
   order: 7
-  title: Publications
+  title: 论文
   description: |
     真菌作为生态系统中的分解者，在木质纤维素的分解中发挥着重要作用，促进生态系统中的碳循环。本文通过建立数学模型来模拟真菌的分解过程，在不考虑真菌之间相互作用的情况下，通过线性回归模型分析湿度和温度对真菌分解速率的影响。结合微分方程和元细胞自动机模型，考虑真菌之间的相互作用来描述不同种群的真菌在给定环境中如何相互作用。
   items:
@@ -236,7 +235,7 @@ publication:
 award:
   show: true
   order: 8
-  title: Awards
+  title: 奖项
   items:
     - name: 美国大学生数学建模竞赛
       awarder: 美国数学及其应用联合会主办
@@ -289,23 +288,23 @@ award:
 language:
   show: true
   order: 11
-  title: Languages
+  title: 语言
   items:
-    - idiom: Chinese
-      level: Native
-    - idiom: English
-      level: Professional
-    - idiom: French
-      level: Base     
+    - idiom: 中文
+      level: 母语
+    - idiom: 英文
+      level: 专业
+    - idiom: 法文
+      level: 基础     
 
 interest:
   show: true
   order: 12
-  title: Interests
+  title: 兴趣
   items:
-    - item: CTF
+    - item: 网络攻防赛
       link: 'https://ctf-wiki.org/'
-    - item: climb mountains
+    - item: 爬山
       link:
 
 # evaluation:
