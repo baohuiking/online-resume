@@ -1,1 +1,377 @@
+basic:
+  name: 卢宝辉                      # name
+  title: 软件开发|人工智能|网络安全            # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path: /assets/images/profile.png # avatar file path
+
+contact:
+  # meta
+  location: 鲁昂, 法国 # location
+  email: h17861565613@gmail.com    # email address
+  phone: +86-178-6156-5613 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:   # site URL without schema, like example.com, will automatically prepand "https://"
+
+  gender:                  # gender or pronoun
+  birthday:                # birthday
+  nationality:             # nationality
+  visa:                    # passport visa
+  drivinglicense:          # driving licence
+
+  # contact
+  wechat:                  # username
+  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
+  telegram:                # username          | https://t.me/username
+  messenger:               # username          | https://m.me/username
+  line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  viber:                   # username          | https://vb.me/username
+  threema:                 # userid            | https://threema.id/userid
+
+  # programmer
+  github: baohuiking                  # username          | https://github.com/username
+  gitlab:                  # username          | https://gitlab.com/username
+  bitbucket:               # username          | https://bitbucket.com/username
+  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                # username          | https://leetcode.com/username
+  codeforces:              # username          | https://codeforces.com/profile/username
+  codewars:                # username          | https://www.codewars.com/users/username
+  codepen:                 # username          | https://codepen.io/username
+  tryhackme:               # username          | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  researchgate:            # username          | https://www.researchgate.net/profile/username
+  kaggle:                  # username          | https://www.kaggle.com/username
+  orcid:                   # id                | https://orcid.org/id
+  figshare:                # name/id           | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                   # username          | https://dev.to/username
+  medium:                  # username          | https://medium.com/@username
+  wordpress:               # username          | https://username.wordpress.com
+  blogger:                 # username          | https://username.blogspot.com
+  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                   # username          | https://www.figma.com/@username
+  behance:                 # username          | https://www.behance.net/username
+  dribble:                 # username          | https://dribbble.com/username
+  artstation:              # username          | https://www.artstation.com/username
+
+  # other cv
+  linkedin: baohui-lu                # username          | https://linkedin.com/in/username
+  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  xing:                    # username          | https://www.xing.com/profile/username
+  fiverr:                  # username          | https://www.fiverr.com/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
+  instagram:               # username          | https://instagram.com/username
+  unsplash:                # username          | https://unsplash.com/@username
+  _500px:                  # username          | https://500px.com/p/username
+  youtube:                 # username          | https://www.youtube.com/@username
+  tiktok:                  # username          | https://www.tiktok.com/@username
+  quora:                   # username          | https://www.quora.com/profile/username
+  zhihu:                   # username          | https://www.zhihu.com/people/username
+  goodreads:               # username          | https://www.goodreads.com/user/show/username
+  strava:                  # useid             | https://www.strava.com/athletes/userid
+
+profile:
+  show: true
+  order: 1
+  title: Profile
+  description: |
+    在完成四年的本科网络工程学习后，我学习了法国嵌入式人工智能项目，所以我正在寻找实习机会与软件开发人工智能或网络安全相关的机会。
+
+experience:
+  show: true
+  order: 2
+  title: Experiences
+  description: |
+  items:
+    - company: 北京国誉网安有限公司
+      link: '#'
+      tags: Full-time
+      date: 2022.07 - 2022.08
+      role: 网络安全工程师
+      location: 北京
+      description: |
+        + Conducted dynamic and static analysis on attack samples of APT organizations such as DarkHotel and GreenSpot, extracted attack processes and behavioral characteristics of different samples, and wrote 5 related tracing reports
+
+    - company: Ruihua Song'an
+      link:
+      tags: Full-time
+      date: 2022.08 - 2023.03
+      role: Cybersecurity Lecturer
+      location: Shandong
+      description: |
+        + The network security basics for training students include: WEB security basics, cryptography, binary security.
+
+
+project:
+  show: true
+  order: 3
+  title: Projects
+  description: |
+  
+  items:
+    - name: National College Student Innovation Program
+      link: '#'
+      tags:
+      date: 2020.6 - 2022.3
+      description: |
+      Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
+        + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
+        + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
+
+    - name: National Cyber Security Offensive and Defensive Exercise
+      link:
+      tags: committer
+      date: 2022.7 - 2022.8
+      description: |
+        + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
+        + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
+
+
+skill:
+  show: true
+  order: 4
+  title: Skills
+  description: |
+    The skills section in a resume is a dedicated section where you can list out the various skills that you possess that are relevant to the job you are applying for. This section allows you to highlight your strengths and demonstrate your capabilities to potential employers.
+
+    The skills section can include both hard skills and soft skills. Hard skills are specific technical abilities or knowledge related to a particular job or industry, such as proficiency in programming languages or experience with certain software programs. Soft skills are more general personal traits and abilities, such as communication skills, leadership, problem-solving, or teamwork.
+
+    When crafting your skills section, it's important to tailor it to the specific job you are applying for, and only include skills that are relevant to the position. This can help catch the attention of the hiring manager and demonstrate that you have the qualifications necessary to succeed in the role.
+
+    There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
+
+  items:
+    - name: Java
+      level: 4
+    - name: Python
+      level: 5
+    - name: Linux
+      level: 4
+    - name: C++
+      level: 3
+    - name: SQL
+      level: 3
+    - name: R
+      level: 3
+    - name: HTML
+      level: 5SHI
+    - name: machine learning
+      level: 4
+    - name: WEB penetration
+      level: 5
+
+  groups:
+    - name: HTML
+      item:
+        - CSS
+        - Node
+        - PHP
+        - Spring Boot
+    - name: machine learning
+      item:
+        - data processing
+        - GAN (Production Adversarial Network)
+        - Target Detection
+    - name: WEB penetration
+      item:
+        - CTF
+        - SRC
+
+education:
+  show: true
+  order: 5
+  title: Education
+  description: |
+  items:
+    - institution: ESIGELEC
+      link: '#'
+      date: 2023 - 2025
+      major: Connected And Embedded Artificial Intelligence
+      degree: Master
+      description: |
+      Complete the "Drone Identification and Tracking" project as a team leader.
+        + Developing Tello drones equipped with pedestrian detection and object tracking capabilities using YOLOv7 and Lightweight OpenPose models.
+      description: |
+      Participate in the Le France Cybersecurity Challenge (FCSC) competition  
+        + During the competition, all the flags for solving the MISC track were submitted.
+
+    - institution: Shandong Jianzhu University
+      link:
+      date: 2019 - 2023
+      major: network engineering
+      degree: Bachelor
+      description: |
+        Semantic enhancement of geospatial data based on knowledge graphs.
+        + Wrote OSM data parsing and analyzed Python programs for extracting point, line and surface type geographic entities and structuring it for storage.
+        + Parsed the raw data or extracted objects with spatial coordinate attributes to store in the MongoDB database, with 8146,542 incoming entities:
+
+
+certificate:
+  show: true
+  order: 6
+  title: Certificates
+  description: |
+  items:
+    - name: NISP-1  
+      issuer: CNITSEC
+      date: 2020
+      link: '#'
+      description: |
+        National Information Security Level Certificate Level 1.
+    # - name: 
+    #   issuer: 
+    #   date: 
+    #   link:
+    #   description: |
+    #     It's my Example Certificate Two by Example.
+
+publication:
+  show: true
+  order: 7
+  title: Publications
+  description: |
+  Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
+
+  items:
+    - title: Research on Fungal Decomposition Based on Mathematical Model
+      authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
+      conference: SPIE , 2022
+      link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
+    - title: 
+      authors: 
+      conference: 
+      link:
+
+award:
+  show: true
+  order: 8
+  title: Awards
+  description: |
+  items:
+    - name: Mathematical Contest in Modeling Certificate of Achievement 
+      awarder: Society for Industrial and Applied Mathematics
+      date: 2022
+      link: '#'
+      description: |
+        Meritorious	Winner.
+    - name: 2022RoboCom Robot Developer Competition (RAICOM)
+      awarder: RoboCom
+      date: 2022
+      link:
+      description: |
+        National Second Prize.
+
+# patent:
+#   show: true
+#   order: 9
+#   title: Patents
+#   description: |
+#     The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
+
+#     In this section, you should list the title of the patent, the name of the inventors, the patent number, and the date it was granted. If the patent is pending, you can indicate that it is "pending" or "in review." You may also want to provide a brief description of the technology or invention that the patent covers.
+
+#     Including a patent section in your resume can help demonstrate your expertise and accomplishments in your field, and can help you stand out from other candidates. However, if you do not have any patents to list, it is not necessary to include this section in your resume.
+
+#     Template for a pending patent:
+
+#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date]. Patent pending.
+
+#     Template for an approved patent:
+
+#     + [Inventor Name]. [Pursued Year]. [Title]. [Patent Number], filed [Submitted Date], [Received Date].
+
+#     The following are some examples of patent formats.
+
+#     + Foo Bar. 2022. Example patent name one. US 123456, filed Oct 3, 2022. Patent pending.
+#     + Foo Bar. 2022. Example patent name two. US 654321, filed Oct 3, 2022, and issued Nov 15, 2022.
+
+# organization:
+#   show: true
+#   order: 10
+#   title: Organizations
+#   description: |
+#     The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
+
+#     In this section, you can list the name of the organization, your role and responsibilities, the duration of your involvement, and any significant achievements or accomplishments. You can also mention any skills or qualities you gained from your involvement, such as leadership, teamwork, communication, or problem-solving skills.
+
+#     This section can be especially valuable for candidates seeking positions in the non-profit sector, social work, or community engagement roles, where experience in social or cultural organizations can demonstrate a genuine passion for social causes and a willingness to work collaboratively towards social change. However, it is important to only include organizations that are relevant to the job you are applying for, and avoid listing organizations that may be controversial or potentially offensive.
+
+language:
+  show: true
+  order: 11
+  title: Languages
+  description: |
+  items:
+    - idiom: Chinese
+      level: Native
+    - idiom: English
+      level: Professional
+    - idiom: French
+      level: Base     
+
+interest:
+  show: true
+  order: 12
+  title: Interests
+  description: |
+  items:
+    - item: CTF
+      link: 'https://ctf-wiki.org/'
+    - item: climb mountains
+      link:
+
+# evaluation:
+#   show: true
+#   order: 13
+#   title: Self-evaluation
+#   description: |
+#     The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
+
+#     In this section, you can highlight your achievements, areas of expertise, and any unique qualities or experiences that set you apart from other candidates. You can also mention areas where you are looking to improve or gain further experience.
+
+#     A well-crafted self-evaluation section can demonstrate your self-awareness and confidence in your abilities, as well as your willingness to continuously learn and grow. However, it is important to be honest and avoid over-inflating your skills or qualifications, as this can negatively impact your credibility and the hiring manager's impression of you.
+
+# reference:
+#   show: true
+#   order: 14
+#   title: References
+#   description: |
+#     A reference section in a resume is a list of individuals who can vouch for your skills, work ethic, and character. These individuals are typically former managers, colleagues, or mentors who have worked closely with you in the past and can provide insight into your abilities and work style.
+
+#     It's important to note that including a reference section in a resume is not always necessary, and some employers may prefer to request references separately. If you do choose to include a reference section, it should typically be located at the end of your resume.
+
+#     When listing references, be sure to include the individual's name, job title, company name, phone number, and email address. It's also a good idea to ask for the individual's permission before listing them as a reference, and to let them know what kind of job you are applying for so they can speak to your relevant skills and experience.
+
+#     It's important to choose references who can provide a positive and comprehensive evaluation of your work. Avoid listing family members or friends as references, and instead focus on individuals who can speak to your professional abilities and accomplishments.
+
+  # items:
+  #   - name: Foo One
+  #     link: '#'
+  #     title: Backend Developer
+  #     institution: Second Company
+  #     address: 1234 Example St, XXX, XY 11111
+  #     email: foo.one@example.com
+  #     phone: 111-222-333
+  #     description: |
+  #       Foo One was my colleague in Second Company.
+
+  #   - name: Bar Two
+  #     link:
+  #     title: Professor
+  #     institution: Example University
+  #     address: 4321 Example St, YYY, XY 22222
+  #     email: bar.two@example.com
+  #     phone: 444-555-666
+  #     description: |
+  #       Bar Two was my advisor at Example University.
+
+close: <strong>Sorry, my resume has been hidden.</strong>
 
