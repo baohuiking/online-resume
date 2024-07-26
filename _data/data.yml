@@ -130,45 +130,45 @@ experience:
         + The network security basics for training students include: WEB security basics, cryptography, binary security.
 
 
-# project:
-#   show: true
-#   order: 4
-#   title: Projects
-#   items:
-#     - name: National College Student Innovation Program
-#       link: '#'
-#       tags:
-#       date: 2020.6 - 2022.3
-#       description: |
-#         Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
-#         + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
-#         + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
+project:
+  show: true
+  order: 4
+  title: Projects
+  items:
+    - name: National College Student Innovation Program
+      link: '#'
+      tags:
+      date: 2020.6 - 2022.3
+      description: |
+        Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
+        + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
+        + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
   
-#    - name: Open Experimental Project
-#       link:
-#       tags: 
-#       date: 2020.11 - 2021.8
-#       description: |
-#         Semantic enhancement of geospatial data based on knowledge graph.
-#         + Write Python programs to parse and analyze OSM data to extract geographic entities of point, line, and surface types and store them in a structured manner.
-#         + Parse raw data or extract objects with spatial coordinate attributes to store in MongoDB database, with 8146,542 incoming entities.
+   - name: Open Experimental Project
+      link:
+      tags: 
+      date: 2020.11 - 2021.8
+      description: |
+        Semantic enhancement of geospatial data based on knowledge graph.
+        + Write Python programs to parse and analyze OSM data to extract geographic entities of point, line, and surface types and store them in a structured manner.
+        + Parse raw data or extract objects with spatial coordinate attributes to store in MongoDB database, with 8146,542 incoming entities.
         
-#     - name: National Cyber Security Offensive and Defensive Exercise
-#       link:
-#       tags: 
-#       date: 2022.7 - 2022.8
-#       description: |
-#         + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
-#         + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
+    - name: National Cyber Security Offensive and Defensive Exercise
+      link:
+      tags: 
+      date: 2022.7 - 2022.8
+      description: |
+        + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
+        + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
       
-#     - name: Drone Pedestrian Detection and Tracking
-#       link:
-#       tags: 
-#       date: 2024.3 - 2024.6
-#       description: |
-#         Completed the "Drone Identification and Tracking" project as a team leader.        
-#         + Developing the Tello Drone with Pedestrian Detection and Object Tracking Using YOLOv7 and Lightweight OpenPose Models.
-#         + Using PID algorithm and machine learning algorithm, it is possible to obtain feedback in real time and adjust the movement of the drone, thereby achieving automatic navigation of the drone.
+    - name: Drone Pedestrian Detection and Tracking
+      link:
+      tags: 
+      date: 2024.3 - 2024.6
+      description: |
+        Completed the "Drone Identification and Tracking" project as a team leader.        
+        + Developing the Tello Drone with Pedestrian Detection and Object Tracking Using YOLOv7 and Lightweight OpenPose Models.
+        + Using PID algorithm and machine learning algorithm, it is possible to obtain feedback in real time and adjust the movement of the drone, thereby achieving automatic navigation of the drone.
 
 # skill:
 #   show: true
@@ -335,7 +335,6 @@ interest:
   items:
     - item: CTF
       link: 'https://ctf-wiki.org/'
-    - item: climb mountains
-      link: '#'
+
       
 close: <strong>Sorry, my resume has been hidden.</strong>
