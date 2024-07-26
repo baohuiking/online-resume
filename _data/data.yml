@@ -214,28 +214,28 @@ skill:
 
 
 
-certificate:
-  show: true
-  order: 6
-  title: Certificates
-  items:
-    - name: NISP1  
-      issuer: CNITSEC
-      date: 2020  
-      link: '#'
-      description: |
+# certificate:
+#   show: true
+#   order: 6
+#   title: Certificates
+#   items:
+#     - name: NISP1  
+#       issuer: CNITSEC
+#       date: 2020  
+#       link: '#'
+#       description: |
         
-    - name: Python Technology Application Engineer (Senior)
-      issuer: Education and Examination Center of the Ministry of Industry and Information Technology
-      date: 2021
-      link:
-      description: |
+#     - name: Python Technology Application Engineer (Senior)
+#       issuer: Education and Examination Center of the Ministry of Industry and Information Technology
+#       date: 2021
+#       link:
+#       description: |
 
-    - name: Provincial Outstanding Graduates
-      issuer: Shandong Provincial Department of Human Resources and Social Security
-      date: 2023
-      link:
-      description: |
+#     - name: Provincial Outstanding Graduates
+#       issuer: Shandong Provincial Department of Human Resources and Social Security
+#       date: 2023
+#       link:
+#       description: |
       
 publication:
   show: true
