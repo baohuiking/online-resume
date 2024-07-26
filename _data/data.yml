@@ -130,129 +130,129 @@ experience:
         + The network security basics for training students include: WEB security basics, cryptography, binary security.
 
 
-project:
-  show: true
-  order: 4
-  title: Projects
-  items:
-    - name: National College Student Innovation Program
-      link: '#'
-      tags:
-      date: 2020.6 - 2022.3
-      description: |
-        Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
-        + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
-        + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
-  
-   - name: Open Experimental Project
-      link:
-      tags: 
-      date: 2020.11 - 2021.8
-      description: |
-        Semantic enhancement of geospatial data based on knowledge graph.
-        + Write Python programs to parse and analyze OSM data to extract geographic entities of point, line, and surface types and store them in a structured manner.
-        + Parse raw data or extract objects with spatial coordinate attributes to store in MongoDB database, with 8146,542 incoming entities.
-        
-    - name: National Cyber Security Offensive and Defensive Exercise
-      link:
-      tags: 
-      date: 2022.7 - 2022.8
-      description: |
-        + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
-        + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
-      
-    - name: Drone Pedestrian Detection and Tracking
-      link:
-      tags: 
-      date: 2024.3 - 2024.6
-      description: |
-        Completed the "Drone Identification and Tracking" project as a team leader.        
-        + Developing the Tello Drone with Pedestrian Detection and Object Tracking Using YOLOv7 and Lightweight OpenPose Models.
-        + Using PID algorithm and machine learning algorithm, it is possible to obtain feedback in real time and adjust the movement of the drone, thereby achieving automatic navigation of the drone.
-
-# skill:
+# project:
 #   show: true
-#   order: 5
-#   title: Skills
+#   order: 4
+#   title: Projects
 #   items:
-#     - name: Java
-#       level: 4
-#     - name: Python
-#       level: 5
-#     - name: Linux
-#       level: 4
-#     - name: C++
-#       level: 3
-#     - name: SQL
-#       level: 3
-#     - name: R
-#       level: 3
-#     - name: HTML
-#       level: 5
-#     - name: Machine Learning
-#       level: 4
-#     - name: WEB penetration
-#       level: 5
-#   groups:
-#       - name: WEB penetration
-#       item:
-#         - CTF
-#         - SRC
-        
-#     - name: HTML
-#       item:
-#         - CSS
-#         - Node
-#         - PHP
-#         - Spring Boot
-        
-#     - name: machine learning
-#       item:
-#         - data processing
-#         - GAN (Production Adversarial Network)
-#         - Target Detection
-
-
-
-# certificate:
-#   show: true
-#   order: 6
-#   title: Certificates
-#   items:
-#     - name: NISP-1  
-#       issuer: CNITSEC
-#       date: 2020  
+#     - name: National College Student Innovation Program
 #       link: '#'
+#       tags:
+#       date: 2020.6 - 2022.3
 #       description: |
+#         Assured Energy-Distributed Energy 020 Smart Operation & Maintenance.
+#         + Developed a prototype LSTM-based PV power generation forecasting system is built using spatial and temporal data and meteorological data as inputs.
+#         + Worked with team members on creating a network based PV power generation prediction model has been developed in collaboration. The residual model contains a fault diagnosis module, and a shading diagnosis module.
+  
+#    - name: Open Experimental Project
+#       link:
+#       tags: 
+#       date: 2020.11 - 2021.8
+#       description: |
+#         Semantic enhancement of geospatial data based on knowledge graph.
+#         + Write Python programs to parse and analyze OSM data to extract geographic entities of point, line, and surface types and store them in a structured manner.
+#         + Parse raw data or extract objects with spatial coordinate attributes to store in MongoDB database, with 8146,542 incoming entities.
         
-#     - name: Python Technology Application Engineer (Senior)
-#       issuer: Education and Examination Center of the Ministry of Industry and Information Technology
-#       date: 2021
+#     - name: National Cyber Security Offensive and Defensive Exercise
 #       link:
+#       tags: 
+#       date: 2022.7 - 2022.8
 #       description: |
-
-#     - name: Provincial Outstanding Graduates
-#       issuer: Shandong Provincial Department of Human Resources and Social Security
-#       date: 2023
-#       link:
-#       description: |
+#         + Collaborated as a defender to complete a range of tasks related to monitoring data, disposal, countermeasures, etc.
+#         + Wrote more than 20 detailed reports that fully documented the attack tracking process and results.Found more than 40 critical vulnerabilities that could pose a threat to system security.
       
-# publication:
-#   show: true
-#   order: 7
-#   title: Publications
-#   description: |
-#     Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
-
-#   items:
-#     - title: Research on Fungal Decomposition Based on Mathematical Model
-#       authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
-#       conference: SPIE , 2022
-#       link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
-#     - title: 
-#       authors: 
-#       conference: 
+#     - name: Drone Pedestrian Detection and Tracking
 #       link:
+#       tags: 
+#       date: 2024.3 - 2024.6
+#       description: |
+#         Completed the "Drone Identification and Tracking" project as a team leader.        
+#         + Developing the Tello Drone with Pedestrian Detection and Object Tracking Using YOLOv7 and Lightweight OpenPose Models.
+#         + Using PID algorithm and machine learning algorithm, it is possible to obtain feedback in real time and adjust the movement of the drone, thereby achieving automatic navigation of the drone.
+
+skill:
+  show: true
+  order: 5
+  title: Skills
+  items:
+    - name: Java
+      level: 4
+    - name: Python
+      level: 5
+    - name: Linux
+      level: 4
+    - name: C++
+      level: 3
+    - name: SQL
+      level: 3
+    - name: R
+      level: 3
+    - name: HTML
+      level: 5
+    - name: Machine Learning
+      level: 4
+    - name: WEB penetration
+      level: 5
+  groups:
+      - name: WEB penetration
+      item:
+        - CTF
+        - SRC
+        
+    - name: HTML
+      item:
+        - CSS
+        - Node
+        - PHP
+        - Spring Boot
+        
+    - name: machine learning
+      item:
+        - data processing
+        - GAN (Production Adversarial Network)
+        - Target Detection
+
+
+
+certificate:
+  show: true
+  order: 6
+  title: Certificates
+  items:
+    - name: NISP-1  
+      issuer: CNITSEC
+      date: 2020  
+      link: '#'
+      description: |
+        
+    - name: Python Technology Application Engineer (Senior)
+      issuer: Education and Examination Center of the Ministry of Industry and Information Technology
+      date: 2021
+      link:
+      description: |
+
+    - name: Provincial Outstanding Graduates
+      issuer: Shandong Provincial Department of Human Resources and Social Security
+      date: 2023
+      link:
+      description: |
+      
+publication:
+  show: true
+  order: 7
+  title: Publications
+  description: |
+    Fungi, as decomposers in the ecosystem, play an important role in the decomposition of lignocellulose and promote the carbon cycle in the ecosystem. In this paper, the decomposition of fungi was simulated by establishing a mathematical model, and the effects of humidity and temperature on the decomposition rate of fungi were analyzed by linear regression model without considering the interaction between fungi. Combined with differential equations and metacellular automata model, the interaction between fungi was considered to describe how different populations of fungi interact in a given environment.
+
+  items:
+    - title: Research on Fungal Decomposition Based on Mathematical Model
+      authors: Lu, Baohui ; Hu, Tingting ; Wang, Qiyue
+      conference: SPIE , 2022
+      link: 'https://ui.adsabs.harvard.edu/abs/2022SPIE12259E..1BL/abstract'
+    - title: 
+      authors: 
+      conference: 
+      link:
 
 award:
   show: true
