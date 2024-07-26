@@ -85,6 +85,27 @@ profile:
   description: |
     在完成四年的本科网络工程学习后，我在ESIGELEC学习了嵌入式人工智能项目，所以我正在寻找为期四到六个月与软件开发人、工智能或网络安全相关的实习机机会。
 
+education:
+  show: true
+  order: 2
+  title: 教育
+  items:
+    - institution: ESIGELEC
+      link: '#'
+      date: 2023 - 2025
+      major: 嵌入式人工智能
+      degree: 硕士
+      description: |
+        主修课程：MicroPython, C/C++, 机器学习, 嵌入式Linux, ROS, 微控制器, 项目管理, 智能传感器, 智能系统的人工智能等
+
+    - institution: 山东建筑大学
+      link:
+      date: 2019 - 2023
+      major: 网络工程
+      degree: 本科
+      description: |
+        主修课程：数据结构, 计算机网络, 计算机组成原理, 操作系统, 离散数学,软件开发，网络安全，数据库，Java，Python，C++等
+        
 experience:
   show: true
   order: 3
@@ -129,6 +150,16 @@ project:
         + 作为防御者协同完成监测数据、处置、对策等一系列任务。
         + 撰写了20多份详细报告，完整记录了攻击跟踪过程和结果。发现了40多个可能对系统安全构成威胁的关键漏洞。
 
+        作为团队负责人完成“无人机识别与跟踪”项目。
+        + 使用 YOLOv7 和 Lightweight OpenPose 模型开发配备行人检测和物体跟踪功能的 Tello 无人机。
+        参加法国网络安全挑战赛（FCSC）竞赛  
+        + 比赛期间，所有解决MISC赛道的flag均已提交。
+
+        基于知识图谱的地理空间数据语义增强。
+        + 编写OSM数据解析并分析Python程序，用于提取点、线、面类型的地理实体并将其结构化存储。
+        + 解析原始数据或提取具有空间坐标属性的对象以存储在 MongoDB 数据库中，有 8146,542 个传入实体：
+
+
 
 skill:
   show: true
@@ -171,31 +202,6 @@ skill:
         - CTF
         - SRC
 
-education:
-  show: true
-  order: 2
-  title: 教育
-  items:
-    - institution: ESIGELEC
-      link: '#'
-      date: 2023 - 2025
-      major: 嵌入式人工智能
-      degree: 硕士
-      description: |
-        作为团队负责人完成“无人机识别与跟踪”项目。
-        + 使用 YOLOv7 和 Lightweight OpenPose 模型开发配备行人检测和物体跟踪功能的 Tello 无人机。
-        参加法国网络安全挑战赛（FCSC）竞赛  
-        + 比赛期间，所有解决MISC赛道的flag均已提交。
-
-    - institution: 山东建筑大学
-      link:
-      date: 2019 - 2023
-      major: 网络工程
-      degree: 本科
-      description: |
-        基于知识图谱的地理空间数据语义增强。
-        + 编写OSM数据解析并分析Python程序，用于提取点、线、面类型的地理实体并将其结构化存储。
-        + 解析原始数据或提取具有空间坐标属性的对象以存储在 MongoDB 数据库中，有 8146,542 个传入实体：
 
 
 certificate:
