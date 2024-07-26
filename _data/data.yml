@@ -219,7 +219,7 @@ certificate:
   order: 6
   title: Certificates
   items:
-    - name: NISP-1  
+    - name: NISP1  
       issuer: CNITSEC
       date: 2020  
       link: '#'
