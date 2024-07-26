@@ -194,7 +194,8 @@ skill:
     - name: WEB penetration
       level: 5
   groups:
-      - name: WEB penetration
+  
+    - name: WEB penetration
       item:
         - CTF
         - SRC
