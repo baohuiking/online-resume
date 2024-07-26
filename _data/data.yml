@@ -129,7 +129,6 @@ experience:
       description: |
         + The network security basics for training students include: WEB security basics, cryptography, binary security.
 
-
 project:
   show: true
   order: 4
