@@ -83,6 +83,7 @@ profile:
   title: Profile
   description: |
     After completing four years of undergraduate Network Engineering, I studied the Embedded Artificial Intelligence program at ESIGELEC, so I am looking for a four to six month internship opportunity related to software development, artificial intelligence or network security.
+
 education:
   show: true
   order: 2
@@ -149,8 +150,8 @@ project:
       date: 2020.11 - 2021.8
       description: |
         Semantic enhancement of geospatial data based on knowledge graph.
-      + Write Python programs to parse and analyze OSM data to extract geographic entities of point, line, and surface types and store them in a structured manner.
-      + Parse raw data or extract objects with spatial coordinate attributes to store in MongoDB database, with 8146,542 incoming entities.
+        + Write Python programs to parse and analyze OSM data to extract geographic entities of point, line, and surface types and store them in a structured manner.
+        + Parse raw data or extract objects with spatial coordinate attributes to store in MongoDB database, with 8146,542 incoming entities.
         
     - name: National Cyber Security Offensive and Defensive Exercise
       link:
@@ -204,6 +205,7 @@ skill:
         - Node
         - PHP
         - Spring Boot
+        
     - name: machine learning
       item:
         - data processing
@@ -222,7 +224,6 @@ certificate:
       date: 2020  
       link: '#'
       description: |
-        National Information Security Level Certificate Level 1.
         
     - name: Python Technology Application Engineer (Senior)
       issuer: Education and Examination Center of the Ministry of Industry and Information Technology
@@ -267,7 +268,7 @@ award:
         
     - name: The 19th Shandong University Student Software Design Competition
       awarder: Shandong Provincial Department of Education
-      date: 2021
+      date: 2022
       link:
       description: |
         First Prize
@@ -278,7 +279,8 @@ award:
       link: '#'
       description: |
         Second Prize.
-     - name: The 11th China Software Cup Undergraduate Software Design Competition
+        
+    - name: The 11th China Software Cup Undergraduate Software Design Competition
       awarder: Ministry of Industry and Information Technology, Ministry of Education
       date: 2022
       link:
