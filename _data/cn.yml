@@ -96,7 +96,7 @@ education:
       major: 嵌入式人工智能
       degree: 硕士
       description: |
-        主修课程：MicroPython, C/C++, 机器学习, 嵌入式Linux, ROS, 微控制器, 项目管理, 智能传感器, 智能系统的人工智能等
+        主修课程：MicroPython, 机器学习, 嵌入式Linux, ROS, 微控制器, 项目管理, 智能传感器, 智能系统的人工智能等
 
     - institution: 山东建筑大学
       link:
@@ -104,7 +104,7 @@ education:
       major: 网络工程
       degree: 本科
       description: |
-        主修课程：数据结构, 计算机网络, 计算机组成原理, 操作系统, 离散数学,软件开发，网络安全，数据库，Java，Python，C++等
+        主修课程：网络安全,数据结构, 计算机网络, 计算机组成原理, 操作系统, 离散数学,软件开发，数据库，Java，Python，C++等
         
 experience:
   show: true
@@ -142,6 +142,15 @@ project:
         + 开发了一个基于 LSTM 的光伏发电预测原型系统，该系统使用时空数据和气象数据作为输入。
         + 与团队成员合作创建了基于网络的光伏发电预测模型。残差模型包含故障诊断模块和阴影诊断模块。
 
+    - name: 开放性实验项目
+      link:
+      tags: 
+      date: 2020.11 - 2021.8
+      description: |
+        基于知识图谱的地理空间数据语义增强。
+        + 编写OSM数据解析并分析Python程序，用于提取点、线、面类型的地理实体并将其结构化存储。
+        + 解析原始数据或提取具有空间坐标属性的对象以存储在 MongoDB 数据库中，有 8146,542 个传入实体：
+        
     - name: 国家网络安全攻防演习
       link:
       tags: 
@@ -149,17 +158,15 @@ project:
       description: |
         + 作为防御者协同完成监测数据、处置、对策等一系列任务。
         + 撰写了20多份详细报告，完整记录了攻击跟踪过程和结果。发现了40多个可能对系统安全构成威胁的关键漏洞。
-
+        
+    - name: 无人机行人检测与跟踪
+      link:
+      tags: 
+      date: 2024.3 - 2024.6
+      description: |
         作为团队负责人完成“无人机识别与跟踪”项目。
         + 使用 YOLOv7 和 Lightweight OpenPose 模型开发配备行人检测和物体跟踪功能的 Tello 无人机。
-        参加法国网络安全挑战赛（FCSC）竞赛  
-        + 比赛期间，所有解决MISC赛道的flag均已提交。
-
-        基于知识图谱的地理空间数据语义增强。
-        + 编写OSM数据解析并分析Python程序，用于提取点、线、面类型的地理实体并将其结构化存储。
-        + 解析原始数据或提取具有空间坐标属性的对象以存储在 MongoDB 数据库中，有 8146,542 个传入实体：
-
-
+        +  使用PID 算法，和机器学习算法能够实时获取反馈并调整无人机的运动，从而实现无人机自动导航。
 
 skill:
   show: true
@@ -186,21 +193,24 @@ skill:
       level: 5
 
   groups:
+    - name: WEB渗透
+      item:
+        - CTF
+        - SRC
+        
     - name: HTML
       item:
         - CSS
         - Node
         - PHP
         - Spring Boot
+        
     - name: 机器学习
       item:
-        - 数据预处理
+        - 数据处理
         - GAN (生成对抗网络)
-        - Target Detection
-    - name: WEB渗透
-      item:
-        - CTF
-        - SRC
+        - 目标识别
+
 
 
 
@@ -215,12 +225,20 @@ certificate:
       link: '#'
       description: |
         国家信息安全等级证书一级。
-    # - name: 
-    #   issuer: 
-    #   date: 
-    #   link:
-    #   description: |
-    #     It's my Example Certificate Two by Example.
+        
+        
+    - name: Python技术应用工程师（高级）
+      issuer: 工业和信息化部教育与考试中心
+      date: 2021
+      link:
+      description: |
+
+    - name: 省级优秀毕业生
+      issuer: 山东省人力资源和社会保障厅
+      date: 2023
+      link:
+      description: |
+        
 
 publication:
   show: true
@@ -249,12 +267,55 @@ award:
       link: '#'
       description: |
         M奖
-    - name: 2022睿抗机器人开发者大赛 (RAICOM)
+        
+    - name: 第十九届山东省大学生软件设计大赛
+      awarder: 山东省教育厅
+      date: 2021
+      link:
+      description: |
+        一等奖
+
+    - name: 2022年睿抗机器人开发者大赛 (RAICOM)
       awarder: RoboCom
       date: 2022
       link:
       description: |
-        全国二等奖.
+        二等奖
+        
+    - name: 第十一届中国软件杯大学生软件设计大赛
+      awarder: 工业和信息化部、教育部
+      date: 2022
+      link:
+      description: |
+        三等奖       
+        
+    - name: 第四届山东省大学生网络技术大赛（网络安全赛道）
+      awarder: 山东省教育厅
+      date: 2022
+      link:
+      description: |
+        一等奖      
+        
+    - name: 第十届泰迪杯数据挖掘挑战赛
+      awarder: 泰迪杯数据挖掘挑战赛组委会
+      date: 2022
+      link:
+      description: |
+        三等奖    
+        
+    - name: 第二十四届中国机器人及人工智能大赛
+      awarder: 中国机器人及人工智能大赛组委会
+      date: 2022
+      link:
+      description: |
+        一等奖 
+        
+    - name: 第十五届全国大学生信息安全竞赛 创新实践能力赛
+      awarder: 教育部高等学校网络安全专业教学指导委员会
+      date: 2022
+      link:
+      description: |
+        二等奖 
 
 # patent:
 #   show: true
@@ -310,8 +371,7 @@ interest:
   items:
     - item: 网络攻防赛
       link: 'https://ctf-wiki.org/'
-    - item: 爬山
-      link:
+
 
 # evaluation:
 #   show: true
