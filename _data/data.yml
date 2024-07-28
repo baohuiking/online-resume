@@ -95,7 +95,7 @@ education:
       major: Connected And Embedded Artificial Intelligence
       degree: Master
       description: |
-        Major courses: MicroPython, Machine Learning, Embedded Linux, ROS, Microcontrollers, Project Management, Smart Sensors, Artificial Intelligence for Intelligent Systems, etc.
+        Coursework: MicroPython, Machine Learning, Embedded Linux, ROS, Microcontrollers, Project Management, Smart Sensors, Artificial Intelligence for Intelligent Systems, etc.
 
     - institution: Shandong Jianzhu University
       link: '#'
@@ -103,7 +103,7 @@ education:
       major: network engineering
       degree: Bachelor
       description: |
-        Major courses: Network security, data structure, computer network, computer organization principle, operating system, discrete mathematics, software development, database, Java, Python, C++, etc.
+        Coursework: Network security, data structure, computer network, computer organization principle, operating system, discrete mathematics, software development, database, Java, Python, C++, etc.
 
 
 experience:
@@ -201,7 +201,7 @@ skill:
     - name: HTML
       item:
         - CSS
-        - Node
+        - Node.js
         - PHP
         - Spring Boot
         
